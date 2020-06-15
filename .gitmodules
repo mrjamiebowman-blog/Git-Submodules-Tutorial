@@ -1,0 +1,12 @@
+[submodule "Kafka-Integration-ISA"]
+	path = Kafka-Integration-ISA
+	url = git@github.com:mrjamiebowman-blog/Kafka-Integration-ISA.git
+[submodule "Kafka-Integration-ERP"]
+	path = Kafka-Integration-ERP
+	url = git@github.com:mrjamiebowman-blog/Kafka-Integration-ERP.git
+[submodule "Kafka-Integration-CRM"]
+	path = Kafka-Integration-CRM
+	url = git@github.com:mrjamiebowman-blog/Kafka-Integration-CRM.git
+[submodule "KafkaModels"]
+	path = KafkaModels
+	url = git@github.com:mrjamiebowman-blog/KafkaModels.git
